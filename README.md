@@ -38,7 +38,7 @@ jupyter notebook
 # Available notebooks
 
 * [start-here.ipynb](start-here.ipynb): Loads the data, nothing more.
-* chicago_parking_investigation.ipynb: Investigation into the 2012 city sticker fine increase — revenue impact, enforcement patterns, and distributional burden.
+* [chicago_parking_investigation.ipynb]: Investigation into the 2012 city sticker fine increase — revenue impact, enforcement patterns, and distributional burden.
 
 # Data warning
 
